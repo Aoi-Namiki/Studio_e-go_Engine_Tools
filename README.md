@@ -1,4 +1,4 @@
-# Studio_e-go_Extract-Write_Text_Tool
+# Studio_e-go_tools
 测试的游戏
 
 Twin Way ～今を抱きしめて～ 无加密
