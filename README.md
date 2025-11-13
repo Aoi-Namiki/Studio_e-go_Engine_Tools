@@ -1,4 +1,4 @@
-# Studio_e-go_tools
+# Studio_e-go_V2_tools
 
 Studio_e･go!_V1可以使用GARbro (https://github.com/morkt/GARbro) 和
 AnimED (http://wks.arai-kibou.ru/ae.php?p=dl)
