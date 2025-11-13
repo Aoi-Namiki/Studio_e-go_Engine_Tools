@@ -8,9 +8,9 @@ Studio_e-go_V2_unpack.py
 
 Studio_e-go_V2_pack.py
 
-v2_scr_extract.py
+V2_scr_extract.py
 
-v2_scr_write.py
+V2_scr_write.py
 
 Studio_e･go!_V2引擎的游戏
 
