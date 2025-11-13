@@ -4,10 +4,13 @@ Studio_e･go!_V1可以使用GARbro (https://github.com/morkt/GARbro) 和
 AnimED (http://wks.arai-kibou.ru/ae.php?p=dl)
 进行解包封包
 
-Studio_e･go!_V2_unpack.py
+Studio_e-go_V2_unpack.py
 
-Studio_e･go!_V2_pack.py
+Studio_e-go_V2_pack.py
 
+v2_scr_extract.py
+
+v2_scr_write.py
 
 Studio_e･go!_V2引擎的游戏
 
